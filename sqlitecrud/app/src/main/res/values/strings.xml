@@ -1,0 +1,10 @@
+<resources>
+
+        <string name="app_name">sqlitecrud</string>
+        <string name="titulo">Game console contact</string>
+        <string name="name">Enter Name here</string>
+        <string name="contact">Enter Contact No</string>
+        <string name="email">Enter Email </string>
+        <string name="save">save</string>
+
+</resources>
